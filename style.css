@@ -25,6 +25,8 @@ body {
 
   text-shadow: var(--text-shadow);
 
+  background-color: #333;
+
   &::before {
     content: "";
     position: fixed;
